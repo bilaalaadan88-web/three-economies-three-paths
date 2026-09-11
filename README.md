@@ -18,7 +18,7 @@ and unemployment across three structurally different economies from 1991–2021.
   central banks aim for, with the lowest volatility
 
 ## Data Source
-[Inflation, Interest Rate and Unemployment](https://www.kaggle.com/datasets/kimmik123/inflation-interest-rate-and-unemployment) (Kaggle, sourced from World Bank)
+https://www.kaggle.com/code/kimmik123/inflation-interest-rate-and-unemployment/input?select=inflation+interest+unemployment.csv
 
 ## Tools
 R, Shiny, tidyverse, DT
